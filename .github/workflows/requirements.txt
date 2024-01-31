@@ -1,0 +1,2 @@
+# requirements.txt
+scratchattach==1.5.7
